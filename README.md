@@ -13,5 +13,5 @@ This was certainly a fascinating little experience to experiment with GenAI in t
 
 However, one significant drawback from this is that, while yes I don't think anyone wants to go searching through a document with 7000+ potential provinces for errors, it mostly comes down to the fact that it could lead into some things like, not being that actually skilled with coding in HOI4 and being super relient on the AI to do the work for you. This can be a problem, because sometimes you really need to specifically prompt these bots in order to get the result you want, and if you don't even know what the issue is, especially in a code for something that you created for your mod for something like a nation that the bot doesn't really have a direct reference to on the internet, it could definitely get some things wrong with some corrections involving unique country_flags and how they interact with other files. Essentially, becoming too relient on the AI could create some buggy issues later down the line or even potentially complicate code more than it needs to be complicated.
 
-But overall? SOmething like this has significant potential to help people like myself who are pretty much handling a solo mod project for HOI4.
+But overall? Something like this has significant potential to help people like myself who are pretty much handling a solo mod project for HOI4.
 
